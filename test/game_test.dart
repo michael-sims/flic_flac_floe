@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:tictactoe/game.dart';
+import 'package:flic_flac_floe/game.dart';
 
 void main() {
   testMove();

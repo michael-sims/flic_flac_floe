@@ -1,5 +1,5 @@
-name: flit_flac_floe
-description: A new Flutter project.
+name: flic_flac_floe
+description: Tic Tac Toc via Flutter
 
 dependencies:
   flutter:
