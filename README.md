@@ -1,6 +1,6 @@
-# flit_flac_floe
+# Flit Flac Floe
 
-A new Flutter project.
+Tic Tac Toe implemented in Flutter
 
 ## Getting Started
 
