@@ -25,7 +25,7 @@ class Player {
 }
 
 class GameBoard {
-  static final MOVES_NEEDED = Move.MAX + 1;
+  static const MOVES_NEEDED = Move.MAX + 1;
   final List<Move> moves;
 
   GameBoard(this.moves);
