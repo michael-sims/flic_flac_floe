@@ -26,6 +26,8 @@ class Player {
 
 class GameBoard {
   static const MOVES_NEEDED = Move.MAX + 1;
+  static const WIDTH = Move.MAX + 1;
+  static const HEIGHT = Move.MAX + 1;
   final List<Move> moves;
 
   GameBoard(this.moves);
